@@ -24,7 +24,7 @@ Feed Forward NN(Using deep feed forward network with two hidden layers for perfo
 
 https://colab.research.google.com/drive/1syO2G6ybfrZN8qvHJ48541RMWqYxd11t?usp=sharing
 
-CNN for CIFAR10 Images
+CNN for CIFAR10 Images(Convolutional Neural Network)
 
 https://colab.research.google.com/drive/12mfAmNv-kEzRjbxAT4zY4JQMyR3wvfNN?usp=sharin
 g
