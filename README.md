@@ -20,7 +20,7 @@ Predicting the Probability of the class
 
 https://colab.research.google.com/drive/1GeaoBoI13spSaeccEVYbWy0ogcIi3RLU?usp=sharing
 
-Feed Forward NN
+Feed Forward NN(Using deep feed forward network with two hidden layers for performing classification and predicting the class)
 
 https://colab.research.google.com/drive/1syO2G6ybfrZN8qvHJ48541RMWqYxd11t?usp=sharing
 
