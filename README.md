@@ -12,7 +12,7 @@ Classification using DNN( deep neural network for performing classification task
 
 https://colab.research.google.com/drive/1SlQ2SXG0rsWCNqGHKOjFuqRZMmsY_hWG?usp=sharing
 
-Binary Classification using MLP
+Binary Classification using MLP( multi-layer perceptron )
 
 https://colab.research.google.com/drive/1HTaGIGlua1ctHJ6VLc1OiZDZgugFcsF_?usp=sharing
 
