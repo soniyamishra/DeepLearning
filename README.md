@@ -48,7 +48,10 @@ https://colab.research.google.com/drive/1hVKEIDGIjepYzjv9ABkmNhruvy9mqI6y?usp=sh
 
 
 Extra Direct Link for practicals from websites
+
+
 5a. CNN of CIFER10 Images
+
 https://www.tensorflow.org/tutorials/images/cnn
 
 5b. Image classification
