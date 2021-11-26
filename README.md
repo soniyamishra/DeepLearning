@@ -38,7 +38,7 @@ Data Augmentation
 
 https://colab.research.google.com/drive/1rI_H9LeRYLxERsStUuHmcYfkjkx0YYZo?usp=sharing
 
-Building RNN using Single Neuron
+Building RNN using Single Neuron(Recurrent Neural Networks (RNN) with Keras)
 
 https://colab.research.google.com/drive/12gY9wWGt9afakJ3dbCN28iD9dFBXTCOD?usp=sharing
 
