@@ -45,3 +45,25 @@ https://colab.research.google.com/drive/12gY9wWGt9afakJ3dbCN28iD9dFBXTCOD?usp=sh
  Implementing a single Autoencoder  based on fully connected layer
 
 https://colab.research.google.com/drive/1hVKEIDGIjepYzjv9ABkmNhruvy9mqI6y?usp=sharing
+
+
+Extra Direct Link for practicals from websites
+5a. CNN of CIFER10 Images
+https://www.tensorflow.org/tutorials/images/cnn
+
+5b. Image classification
+https://www.tensorflow.org/tutorials/images/classification
+
+5c. Data Augmentation 
+https://www.tensorflow.org/tutorials/images/data_augmentation 
+
+Pract 6 Building RNN 
+https://www.tensorflow.org/guide/keras/rnn 
+
+Pract 7  Using CovNet to build Deep Learning  model
+https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html 
+
+
+Pract 8 Implementing a single Autoencoder  based on fully connected layer
+https://blog.keras.io/building-autoencoders-in-keras.html 
+
